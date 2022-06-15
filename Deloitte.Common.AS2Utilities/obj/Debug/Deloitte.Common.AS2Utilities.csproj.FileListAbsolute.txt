@@ -1,0 +1,5 @@
+C:\Projects\eDRMS\eDRMS2Product\Deloitte.RecordManagement.eDRMS2.DataMigration\Deloitte.Common.AS2Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\eDRMS\eDRMS2Product\Deloitte.RecordManagement.eDRMS2.DataMigration\Deloitte.Common.AS2Utilities\bin\Debug\Deloitte.Common.AS2Utilities.dll
+C:\Projects\eDRMS\eDRMS2Product\Deloitte.RecordManagement.eDRMS2.DataMigration\Deloitte.Common.AS2Utilities\bin\Debug\Deloitte.Common.AS2Utilities.pdb
+C:\Projects\eDRMS\eDRMS2Product\Deloitte.RecordManagement.eDRMS2.DataMigration\Deloitte.Common.AS2Utilities\obj\Debug\Deloitte.Common.AS2Utilities.dll
+C:\Projects\eDRMS\eDRMS2Product\Deloitte.RecordManagement.eDRMS2.DataMigration\Deloitte.Common.AS2Utilities\obj\Debug\Deloitte.Common.AS2Utilities.pdb
